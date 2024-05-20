@@ -14,6 +14,7 @@ export const skillsData = [
   'Strapi',
   'Node JS',
   'Express JS',
+  'Vue',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
