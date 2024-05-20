@@ -12,8 +12,8 @@ export const skillsData = [
   'Figma',
   'Nginx',
   'Strapi',
-  'Node js',
-  'Express',
+  'Node JS',
+  'Express JS',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
