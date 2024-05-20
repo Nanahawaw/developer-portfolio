@@ -17,8 +17,8 @@ export const projectsData = [
     {
         id: 2,
         name: 'Bayasel',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
+        description: `BayaSel, derived from 'Buy And Sell', embodies an E-commerce model empowering farmers to directly connect with consumers, eliminating intermediaries and their associated costs.`,
+        tools: ['JWT', 'Prisma', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Cloudinary"],
         role: 'Backend Developer',
         code: '',
         demo: '',
@@ -36,9 +36,9 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Ecommerce API',
-        description: "I developed the complete API for an ecommerce website using Nodejs, Express js, MongoDB",
-        tools: ['NodeJS', 'ExpressJs', 'MongoDB'],
+        name: 'Loklok Clone',
+        description: "I developed the complete API for the clone of my favorite movie website/app",
+        tools: ['NodeJS', 'ExpressJs', 'MongoDB', 'Nodemailer', 'JWT'],
         code: '',
         demo: '',
         image: ayla,
